@@ -1,0 +1,9 @@
+# Elm
+elm-stuff/
+index.html
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
